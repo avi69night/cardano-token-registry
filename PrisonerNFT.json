@@ -1,0 +1,10 @@
+{
+   all: [
+      {
+         invalidBefore: 132709604
+      },
+      {
+         pubKeyHash: "b2e13be492eb808ba78975771aa6bbbdb3bac5874ff525c960ac2b54"
+      }
+   ]
+}
